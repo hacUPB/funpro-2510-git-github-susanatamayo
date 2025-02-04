@@ -5,5 +5,14 @@ Nombre del estudiante:  Susana Tamayo
 
 Id.:567398
 
+| Nombre |Descripción |
+|--------------|--------------|
+| Objetivos| Fila 1 Col 2 |
+| Conceptos Preliminares | Fila 2 Col 2 |
+| Uso de la consola||
+| Repositorio local| |
+| Repositoria Remoto||
+| Uso de Markdown||
+
 
 
