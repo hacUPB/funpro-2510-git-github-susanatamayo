@@ -1,6 +1,4 @@
 # ⚙️Creación del repositorio remoto.
-![Texto alternativo](../images/repositorio%20remoto%20imagen%201.jpg)
-
 ### 📌Accede a GitHub:
  Ve a GitHub e inicia sesión con tu cuenta. Si aún no tienes cuenta, puedes crear una de forma gratuita.
 

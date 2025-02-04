@@ -1,5 +1,4 @@
 # 🗃️Uso de la Consola: Navegación y Creación de Directorios y Archivos
-![Texto alternativo](../images/Uso_consola%20imagen%202.png)
 
 
 La consola o terminal es una herramienta fundamental para interactuar con el sistema operativo de manera eficiente. Permite ejecutar comandos para realizar diversas tareas sin necesidad de una interfaz gráfica. A continuación, se describen los conceptos básicos sobre cómo navegar por el sistema de archivos y crear directorios y archivos.

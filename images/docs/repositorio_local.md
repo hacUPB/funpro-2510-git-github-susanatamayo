@@ -1,6 +1,4 @@
 # Funciones del repositorio local
-![Texto alternativo](../images/repositorio%20local%20imagen%201.png)
-
 ### 📌Instalar Git (si aún no lo tienes):
 
  Si no has instalado Git, puedes hacerlo desde su página oficial. Sigue las instrucciones según tu sistema operativo.
