@@ -13,8 +13,8 @@
 | docs|Conceptos y funciones del comando gitignore, repositorio local,repositorio remoto y uso de la conlosa.|
 | images|En este archivo se pueden encontrar todas las imagenes incertadas en el los documentos m.d  |
 | src| Codigo ejemplo de inclución de un archivo funcional al proyecto|
-| gitignore| |
-| Uso de Markdown.||
+| gitignore| Uso del comando .gitignore.|
+| Uso de Markdown.|Concepto, función y comandos de Markdon.|
 
 ### ✅ Objetivos.
 El objetivo principal del proyecto infiere en crear y estructurar un proyecto de programación usando programas como Git y GitHub, ademas comprender el uso de la consola en terminos de navegación y creación de directorios y archivos, crear repositorios locales usando comandos en git, finalmete la generación de repositorios remotos en GitHub y la sincronización entre repositorio(loca y remoto)
