@@ -6,18 +6,18 @@
 ✅Id.:567398
 
 ### 📂Tabla de contenido.
-| Archivo |Descripción |
-|--------------|--------------|
-| Objetivos.|Describe la intención principal del pyoyecto.|
+| Archivo |Descripción | Link |
+|--------------|--------------|-----
+| Objetivos.|Describe la intención principal del pyoyecto.| 
 | Conceptos Preliminares. | Creación de directorios o archivos,renombrar y traslado de archivos o directorios, busqueda de archivos o directorios y eliminación de archivos o directorios.|
-| docs|Conceptos y funciones del comando gitignore, repositorio local,repositorio remoto y uso de la conlosa.|
-| images|En este archivo se pueden encontrar todas las imagenes incertadas en el los documentos m.d  |
-| src| Codigo ejemplo de inclución de un archivo funcional al proyecto|
+| docs|Conceptos y funciones del comando gitignore, repositorio local,repositorio remoto y uso de la conlosa.|[Carpeta de Docs](https://funpro-2510-git-github-susanatamayo/docs)
+| images|En este archivo se pueden encontrar todas las imagenes incertadas en el los documentos m.d  | [Carpeta de Images](https://funpro-2510-git-github-susanatamayo/images)
+| src| Codigo ejemplo de inclución de un archivo funcional al proyecto|[Carpeta de src](https://funpro-2510-git-github-susanatamayo/src)
 | gitignore| Uso del comando .gitignore.|
 | Uso de Markdown.|Concepto, función y comandos de Markdon.|
 
 ### ✅ Objetivos.
-El objetivo principal del proyecto infiere en crear y estructurar un proyecto de programación usando programas como Git y GitHub, ademas comprender el uso de la consola en terminos de navegación y creación de directorios y archivos, crear repositorios locales usando comandos en git, finalmete la generación de repositorios remotos en GitHub y la sincronización entre repositorio(loca y remoto)
+El objetivo principal de la actividad infiere en crear y estructurar un proyecto de programación usando programas como Git y GitHub, ademas comprender el uso de la consola en terminos de navegación y creación de directorios y archivos, crear repositorios locales usando comandos en git, finalmete la generación de repositorios remotos en GitHub y la sincronización entre repositorio(loca y remoto)
 
 ### 📓Conceptos Preliminares.
 Los conceptos prelimanres, permiten reconocer aquellos comandos necesarios para el uso basico de programas como: Git bash, GitHub y Visual estudio code.
