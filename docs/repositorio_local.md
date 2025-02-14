@@ -1,5 +1,7 @@
 # Funciones del repositorio local
 ![Texto alternativo](../images/repositorio%20local%20imagen%201.png)
+## Funciones y paso a paso.
+Es un contenedor de archivos que se encuentra en tu ordenador. Éste puede tener un proyecto lleno de diferentes archivos y es allí donde vas haciendo tus modificaciones y guardardolas para así, ir creando varias versiones. 
 
 ### 📌Instalar Git (si aún no lo tienes):
 
