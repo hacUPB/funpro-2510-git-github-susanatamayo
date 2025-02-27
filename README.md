@@ -70,15 +70,15 @@ En esta carpeta se encuentra la información relacionada con el usos de la conso
 
 La consola o terminal es una herramienta fundamental para interactuar con el sistema operativo de manera eficiente. Permite ejecutar comandos para realizar diversas tareas sin necesidad de una interfaz gráfica. 
 
-![Texto alternativo](../funpro-2510-git-github-susanatamayo/images/Uso_consola%20imagen%202.png)
+![Texto alternativo](./images/Uso_consola_imagen2.png)
 
 2. #### Reposito local. 📁
 
 Es un contenedor de archivos que se encuentra en tu ordenador. Éste puede tener un proyecto lleno de diferentes archivos y es allí donde vas haciendo tus modificaciones y guardardolas para así, ir creando varias versiones.
+![alt text](./images/Repositorio_local_texto.png)
 
-![Texto alternativo](../funpro-2510-git-github-susanatamayo/images/Repositorio%20local%20texto.png)
 
-![Texto alternativo](../funpro-2510-git-github-susanatamayo/images/repositorio%20local%20imagen%201.png)
+![Texto alternativo](./images/repositorio_local_imagen1.png)
 
 3. #### Repositorio remoto. 🌐
 
@@ -100,9 +100,8 @@ f) Proporcionar control de versiones.
 Los repositorios remotos pueden ser de solo lectura o de lectura y escritura. 
 Para trabajar con repositorios remotos, se puede utilizar un servicio como GitHub, Bitbucket o Gitlab. También es posible configurar un servidor de git en un servidor propio o alquilado.
 
-![Texto alternativo](../funpro-2510-git-github-susanatamayo/images/repositorio%20remoto%20imagen%201.jpg)
+![Texto alternativo](./images/repositorio_remoto_imagen1.jpg)
 
-![Texto alternativo](../funpro-2510-git-github-susanatamayo/images/Estado%20de%20GitHub.png)
 
 4. #### Gitignore.🤷🏻‍♀️
 
@@ -128,7 +127,7 @@ Este comando permite pegar imagenes ya se por medio de una URL o desde los archi
 
 En este archivo se encuentra un codigo con ejemplificaciones de como incluir un archivo funcional al proyecto.
 
-![Texto alternativo](../funpro-2510-git-github-susanatamayo/images/Codigo%20fuente%20ima.png)
+![Texto alternativo](./images/Codigo_fuente.png)
 
 ### 🚮Gitignore. 
 
