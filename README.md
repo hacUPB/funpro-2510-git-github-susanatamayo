@@ -121,8 +121,7 @@ En este archivo se pueden encontrar todas las imagenes incertadas en el los docu
 ![Texto alternativo](URL de la imagen)
 ``` 
 Este comando permite pegar imagenes ya se por medio de una URL o desde los archivos de la computadora.
-![Texto alternativo](../funpro-2510-git-github-susanatamayo/images/imagen%20de%20las%20imagenes.png)
-
+![alt text](<images/imagen _de_las_imagenes.png>)
 ### 🖥️Src 
 
 En este archivo se encuentra un codigo con ejemplificaciones de como incluir un archivo funcional al proyecto.
