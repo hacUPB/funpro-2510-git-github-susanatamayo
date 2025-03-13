@@ -163,7 +163,7 @@ Markdown es un lenguaje de marcado que permite agregar formato a texto sin usar 
 | Fila 2 Col 1 | Fila 2 Col 2 |
 
 ``` 
-#### Emojis. 🥳
+#### Emojis. 🏋🏻‍♀️
 
 ``` 
 windows .
